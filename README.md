@@ -1,6 +1,7 @@
-# GitHub101-Meme-Lords
+# GitHub101-Meme-Lords 👾
 This Repository is an activity within an interactive session for GitHub101 attendees to submit their most awesome Git and GitHub related memes to win prizes!
 
+![octocat jumping](https://github.com/Suga7772/GitHub101-Meme-Lords/assets/107424325/7cf38ce1-a225-48e5-82f4-ecbeecd4cb64)
 
 ## How to Contribute!
 
