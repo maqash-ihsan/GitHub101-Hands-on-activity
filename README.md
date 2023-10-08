@@ -7,10 +7,12 @@ This Repository is an activity within an interactive session for GitHub101 atten
 
 - Fork this repository (top right)
 - Give it a suitable name
-- Clone your forked repository into your local Machine
+- Clone your forked repository into your local Machine using GitHub Desktop
 - head over to https://myoctocat.com/build-your-octocat/
 - Make the coolest Octocat
 - Save your creation as your-name-'s Octocat
-- Upload it in your forked repository
+- make a branch with your name in your forked repository
+- Upload your octocat in your named branch.
+- Commit and publish your changes.
 - Send a PR!
 - Congratulations your an Open Soure Sorcerer! 😎
